@@ -1,0 +1,14 @@
+C:\Users\balyk\source\repos\ВД50-1-18 Балыкин А.С\ВД50-1-18 Балыкин А.С\bin\Debug\ВД50-1-18 Балыкин А.С.exe.config
+C:\Users\balyk\source\repos\ВД50-1-18 Балыкин А.С\ВД50-1-18 Балыкин А.С\bin\Debug\ВД50-1-18 Балыкин А.С.exe
+C:\Users\balyk\source\repos\ВД50-1-18 Балыкин А.С\ВД50-1-18 Балыкин А.С\bin\Debug\ВД50-1-18 Балыкин А.С.pdb
+C:\Users\balyk\source\repos\ВД50-1-18 Балыкин А.С\ВД50-1-18 Балыкин А.С\obj\Debug\ВД50-1-18 Балыкин А.С.csprojAssemblyReference.cache
+C:\Users\balyk\source\repos\ВД50-1-18 Балыкин А.С\ВД50-1-18 Балыкин А.С\obj\Debug\ВД50-1-18 Балыкин А.С.csproj.CoreCompileInputs.cache
+C:\Users\balyk\source\repos\ВД50-1-18 Балыкин А.С\ВД50-1-18 Балыкин А.С\obj\Debug\ВД50-1-18 Балыкин А.С.exe
+C:\Users\balyk\source\repos\ВД50-1-18 Балыкин А.С\ВД50-1-18 Балыкин А.С\obj\Debug\ВД50-1-18 Балыкин А.С.pdb
+D:\Microsoft Visual Studio\repos\ВД50-1-18 Балыкин А.С\ВД50-1-18 Балыкин А.С\bin\Debug\ВД50-1-18 Балыкин А.С.exe.config
+D:\Microsoft Visual Studio\repos\ВД50-1-18 Балыкин А.С\ВД50-1-18 Балыкин А.С\bin\Debug\ВД50-1-18 Балыкин А.С.exe
+D:\Microsoft Visual Studio\repos\ВД50-1-18 Балыкин А.С\ВД50-1-18 Балыкин А.С\bin\Debug\ВД50-1-18 Балыкин А.С.pdb
+D:\Microsoft Visual Studio\repos\ВД50-1-18 Балыкин А.С\ВД50-1-18 Балыкин А.С\obj\Debug\ВД50-1-18 Балыкин А.С.csprojAssemblyReference.cache
+D:\Microsoft Visual Studio\repos\ВД50-1-18 Балыкин А.С\ВД50-1-18 Балыкин А.С\obj\Debug\ВД50-1-18 Балыкин А.С.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\repos\ВД50-1-18 Балыкин А.С\ВД50-1-18 Балыкин А.С\obj\Debug\ВД50-1-18 Балыкин А.С.exe
+D:\Microsoft Visual Studio\repos\ВД50-1-18 Балыкин А.С\ВД50-1-18 Балыкин А.С\obj\Debug\ВД50-1-18 Балыкин А.С.pdb
